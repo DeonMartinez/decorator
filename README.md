@@ -1,1 +1,4 @@
 # decorator
+
+
+PartyBuilder = RifleDecorator
