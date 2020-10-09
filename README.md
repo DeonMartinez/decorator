@@ -1,4 +1,3 @@
 # decorator
 
-
-PartyBuilder = RifleDecorator
+https://deonmartinez.github.io/decorator/
